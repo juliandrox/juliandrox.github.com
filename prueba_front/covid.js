@@ -189,8 +189,6 @@ var covid = {
 { "type": "Feature", "properties": { "OBJECTID": 183, "Country_Region": "Yemen", "Last_Update": 1587745833000, "Lat": 15.552727, "Long_": 48.516388, "Confirmed": 1, "Deaths": 0, "Recovered": 1 }, "geometry": { "type": "Point", "coordinates": [ 48.516388, 15.5527270000001 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 184, "Country_Region": "Zambia", "Last_Update": 1587745833000, "Lat": -13.133897, "Long_": 27.849332, "Confirmed": 84, "Deaths": 3, "Recovered": 37 }, "geometry": { "type": "Point", "coordinates": [ 27.8493320000001, -13.133897 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 185, "Country_Region": "Zimbabwe", "Last_Update": 1587745833000, "Lat": -19.015438, "Long_": 29.154857, "Confirmed": 29, "Deaths": 4, "Recovered": 2 }, "geometry": { "type": "Point", "coordinates": [ 29.154857, -19.015438 ] } }
-
-
 { "type": "Feature", "properties": { "OBJECTID": 186, "Country_Region": "Seattle", "Last_Update": 1587745833000, "Lat": 47.6205, "Long_": -122.351, "Confirmed": 29, "Deaths": 4, "Recovered": 2 }, "geometry": { "type": "Point", "coordinates": [ -122.351, 47.6205 ] } }
 { "type": "Feature", "properties": { "OBJECTID": 187, "Country_Region": "Alabama", "Last_Update": 1587745833000, "Lat": 32.7504100, "Long_":  -86.7502600, "Confirmed": 29, "Deaths": 4, "Recovered": 2 }, "geometry": { "type": "Point", "coordinates": [  -86.7502600, 32.7504100 ] } }
 { "type": "Feature", "properties": { "OBJECTID": 188, "Country_Region": "Alaska", "Last_Update": 1587745833000, "Lat": -19.015438, "Long_": 29.154857, "Confirmed": 29, "Deaths": 4, "Recovered": 2 }, "geometry": { "type": "Point", "coordinates": [ 29.154857, -19.015438 ] } }
