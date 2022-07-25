@@ -241,8 +241,8 @@
      text-decoration: underline !important;
 }
  .main_bt:hover, .main_bt:focus {
-     background: #ad2101;
-     border: solid #ad2101 5px;
+     background: #AC71A2;
+     border: solid #AC71A2 5px;
      color: #fff;
 }
 /**-- list icon --**/
@@ -1014,7 +1014,7 @@
 }
  .d_flex {display: flex; align-items: center; justify-content: center;}
  .text-bg h1 {
-     color: rgb(255, 255, 255);
+     color: #ffffff;
      padding-top: 50px;
      font-size: 75px;
      line-height: 94px;
@@ -1025,7 +1025,7 @@
  .text-bg span {
     font-size:25px;
      display: block;
-     color: #000;
+     color: rgb(78, 76, 76);
      line-height: 35px;
      padding-bottom: 50px;
 }
@@ -1041,7 +1041,7 @@
      display: inline-block;
 }
  .text-bg a:hover {
-    background-color: #000;
+    background-color: #AC71A2;
      color: #fff;
 }
  .text {
@@ -1269,7 +1269,7 @@ border-left: inherit;
  .contact .contact .send {
      font-size: 16px;
 
-     background-color: #000;
+     background-color: #AC71A2;
      color: #fff;
      padding: 10px 60px;
      margin: 0 auto;
@@ -1277,7 +1277,7 @@ border-left: inherit;
 display: block;
 }
  .contact .contact .send:hover {
-     background-color: #f2740d;
+     background-color: #AC71A2;
  
      color: #fff;
 }
