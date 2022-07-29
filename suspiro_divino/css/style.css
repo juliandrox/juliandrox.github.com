@@ -225,7 +225,7 @@
      font-weight: 600;
 }
  .main_bt {
-     background: #000;
+     background: rgb(255, 255, 255);
      color: #fff;
      padding: 10px 60px 10px 60px;
      float: left;
@@ -1119,21 +1119,21 @@ margin-left: 15px;
 }
  
  .best_text a {
-background: #000;
+background: #fff;
 border: #AC72A2 solid 3px;
 width: 190px;
 padding: 12px 0;
 font-weight: 500;
 font-size: 17px;
 line-height: 30px;
-color: #fff;
+color: #AC72A2;
 border-radius: 27px;
 text-align: center;
 float: right;
 }
 
  .best_text a:hover {
-     background: #f2740d;
+     background: #AC72A2;
      color: #fff;
 }
 
