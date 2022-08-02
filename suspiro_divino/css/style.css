@@ -346,9 +346,11 @@
 /*--------------------------------------------------------------------- header area ---------------------------------------------------------------------*/
  .logo_section {
      text-align: center;
+     
 }
  .logo {
      float: left;
+     
 }
  nav.main-menu {
      float: right;
@@ -1039,6 +1041,7 @@
      padding: 10px 40px;
      border-radius: 27px;
      display: inline-block;
+     
 }
  .text-bg a:hover {
     background-color: #AC71A2;
@@ -1190,6 +1193,7 @@ background-repeat: no-repeat;
 
 .best_img.croos_rt {
     margin-top: 80px;
+    
 }
 
 
@@ -1276,6 +1280,28 @@ border-left: inherit;
    border-radius: 30px;
 display: block;
 }
+
+.whatsapp {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	font-size:30px;
+	z-index:100;
+	visibility: inherit;
+     text-decoration: none;
+     
+}
+
+.whatsapp-icon {
+	margin-top:13px;
+}
+
  .contact .contact .send:hover {
      background-color: #AC71A2;
  
