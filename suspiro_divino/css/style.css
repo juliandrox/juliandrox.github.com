@@ -1120,7 +1120,9 @@ margin-left: 15px;
      color: #595959;
      padding-bottom: 50px;
 }
- 
+ a:hover{
+color: #fff;
+}
  .best_text a {
 background: #fff;
 border: #AC72A2 solid 3px;
@@ -1300,13 +1302,31 @@ display: block;
 
 .whatsapp-icon {
 	margin-top:13px;
+}   
+
+.social {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	left:40px;
+	background-color:#c7a3ab;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	font-size:30px;
+	z-index:100;
+	visibility: inherit;
+     text-decoration: none;
+     
 }
 
- .contact .contact .send:hover {
-     background-color: #AC71A2;
- 
-     color: #fff;
-}
+
+
+
+.social-icon {
+	margin-top:13px;
+}   
  .rable-box figure {
     margin: 0px;
 }
