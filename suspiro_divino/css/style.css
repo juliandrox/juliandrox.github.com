@@ -910,6 +910,8 @@
      margin: 0px;
      position: relative;
      display: block;
+     text-transform: uppercase;
+     width: max-content;
 }
  .main-menu ul>li>ul>li:hover>ul {
      -webkit-transform: scaleY(1);
