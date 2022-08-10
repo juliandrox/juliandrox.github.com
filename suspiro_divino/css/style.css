@@ -1043,6 +1043,8 @@
      padding: 10px 40px;
      border-radius: 27px;
      display: inline-block;
+ z-index: 100;
+position: absolute;
      
 }
  .text-bg a:hover {
@@ -1051,10 +1053,10 @@
 }
 .text-bg1 a {
     font-size: 16px;
-     margin-right: 10px;
+     margin-right: 800px;
      background-color: #fff;
      color: #000;
-border-color: #AC71A2;
+     border-color: #AC71A2;
      padding: 10px 40px;
      border-radius: 27px;
      display: inline-block;
